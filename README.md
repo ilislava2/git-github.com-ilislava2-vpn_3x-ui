@@ -39,8 +39,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
   
  ### 5. Запускаем скрипт, который установит SSL-сертификат в панель для безопасного входа
  
-``` 
-bash <(curl -Ls https://raw.githubusercontent.com/cyb3rm4gus/3x-ui-auto_add_ssl/main/3x-ui-autossl.sh)
+```
+bash <(curl -Ls https://raw.githubusercontent.com/ilislava2/git-github.com-ilislava2-vpn_3x-ui/main/3x-ui-autossl.sh)
 ```
 ***После этой операции можно заходить через SSH в терминал***
 
