@@ -20,7 +20,7 @@ passw "user login"
 
  ### 2. Обновляем систему 
 ```
-apt update  && apt udgrade
+apt update  && apt upgrade -y
 ```
 ### 3. Перезагрузка сервера
 
